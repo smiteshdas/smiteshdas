@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Smitesh !
 
-A engineering undergraduate student, curious about technology and eager to explore its many dimensions.
+An undergraduate engineering student, curious about technology and eager to explore its many dimensions.
 
 Spent my early-teenage tinkering with Windows Batch files, trying to understand and build radio transmitters from scratch(a circuit from a random corner of internet actually worked!! ).
 
