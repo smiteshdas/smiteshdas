@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Smitesh !
 
-A Engineering undergraduate student at National Institute of Technology Durgapur, India, curious about technology and eager to explore its many dimensions.
+A engineering undergraduate student at National Institute of Technology Durgapur, India, curious about technology and eager to explore its many dimensions.
 
 Spent my early-teenage tinkering with Windows Batch files, trying to understand and build radio transmitters from scratch(a circuit from a random corner of internet actually worked!! ).
 
