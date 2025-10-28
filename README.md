@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Smitesh Das
+## 👋 Hi, I'm Smitesh !
 
 A Engineering undergraduate student at National Institute of Technology Durgapur, India, curious about technology and eager to explore its many dimensions.
 
