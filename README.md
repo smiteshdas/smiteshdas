@@ -8,4 +8,4 @@ Have hands-on experience with *Web-Dev(Node.js)* & Python, where I have spent ti
 
 I enjoy learning by doing and always on the look to contribute to projects that quench my engineering thirst.
 
-Personal Homepage : *<https://smiteshh.github.io/>*
+Homepage : *<https://smiteshh.github.io/>*
